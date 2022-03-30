@@ -1,3 +1,25 @@
+# Fix Missing Reference
+1. Fix missing Microsoft.MixedReality.QR.
+2. Fix missing Microsoft.MixedReality.Toolkit.
+
+![](https://i.imgur.com/sPDcYTi.jpg)
+
+## Version 
+* Unity Version: 2020.3.28f1  
+* MRTK Version:  
+![](https://i.imgur.com/WQoVZuS.png)
+* MixedRealityToolkit.Extension (QRCode Tracking)
+![](https://i.imgur.com/1KAtGfR.png)
+
+## Reference 
+1. https://github.com/microsoft/MixedReality-QRCode-Sample
+2. https://localjoost.github.io/Reading-QR-codes-with-an-MRTK2-Extension-Service/
+3. https://localjoost.github.io/Positioning-QR-codes-in-space-with-HoloLens-2-building-a-'poor-man's-Vuforia'/
+4. https://www.youtube.com/watch?v=BKJ6sjJ9oao
+---
+
+
+Origin md
 ---
 page_type: sample
 name: QR code tracking in Unity
