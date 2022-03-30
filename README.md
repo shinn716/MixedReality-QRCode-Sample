@@ -1,8 +1,6 @@
 # Fix Missing Reference
 1. Fix missing Microsoft.MixedReality.QR.
-2. Fix missing Microsoft.MixedReality.Toolkit.
-
-![](https://i.imgur.com/sPDcYTi.jpg)
+2. Fix missing Microsoft.MixedReality.Toolkit. 
 
 ## Version 
 * Unity Version: 2020.3.28f1  
