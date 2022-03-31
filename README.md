@@ -4,7 +4,7 @@
 
 ## Version 
 * Unity Version: 2020.3.28f1  
-* MRTK P:  
+* MRTK Packs:  
 ![](https://i.imgur.com/WQoVZuS.png)
 * MixedRealityToolkit.Extension (QRCode Tracking)
 ![](https://i.imgur.com/1KAtGfR.png)
